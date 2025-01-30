@@ -1,4 +1,4 @@
-import React, from 'react';
+import React from 'react';
 import { bcms } from './bcms-client';
 import { ResumeEntry, ResumeEntryMetaItem } from '../../bcms/types/ts';
 import { Metadata } from 'next';
