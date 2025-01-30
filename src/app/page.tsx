@@ -1,9 +1,8 @@
-import React, { Fragment } from 'react';
+import React, from 'react';
 import { bcms } from './bcms-client';
 import { ResumeEntry, ResumeEntryMetaItem } from '../../bcms/types/ts';
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import Image from 'next/image';
 import Link from 'next/link';
 import { BCMSImage } from '@thebcms/components-react';
 
